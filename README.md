@@ -10,7 +10,9 @@ A continuación se muestra un ejemplo utilizando el driver Seven Segment Display
 ************************************************************ Código ************************************************************
 
 // include the SevenSegmentTM1637 library.
+
 #include "SevenSegmentTM1637.h"
+
 #include "SevenSegmentExtended.h"
 
 /* initialize global TM1637 Display object

@@ -3,7 +3,7 @@ Es un driver para display de LED de 7 segmentos y teclado, el cual es sumamente 
 
 ![](TM1637.jpg)
 
-#Ejemplo de Seven Segment Display TM1637 en Wokwi (Simulación).
+# Ejemplo de Seven Segment Display TM1637 en Wokwi (Simulación).
 
 A continuación se muestra un ejemplo utilizando el driver Seven Segment Display TM1637 para simular un reloj de 24 horas, tanto lo que es la codificación como su resultado; además se muestra el código documentado para analizar el funcionamiento de cada método e instrucciones:
 

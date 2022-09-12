@@ -1,12 +1,20 @@
 ![](Logo.png)
-Instituto Tecnológico de Tijuana,
-Departamento de Sistemas y Computación,
+Instituto Tecnológico de Tijuana.
+
+Departamento de Sistemas y Computación.
+
 Actividad: Presentación del Módulo: Seven Segment Display - TM1637 mediante GitHub Pages.
+
 Asignatura: Sistemas Programables.
+
 Unidad: I.
+
 Docente: M.C. René Solís Reyes.
+
 Alumno & NoControl: Calderón Gastelum Sergio Leonel - 18212153.
+
 Grupo: SC7A.
+
 Fecha: 11/Septiembre/2022
 
 # ¿Qué es el Seven Segment Display TM1637?

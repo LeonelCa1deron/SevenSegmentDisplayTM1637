@@ -19,6 +19,7 @@ A continuación se muestra un ejemplo utilizando el driver Seven Segment Display
    The constructor takes two arguments, the number of the clock pin and the digital output pin:
   SevenSegmentTM1637(byte pinCLK, byte pinDIO);
 */
+
 const byte PIN_CLK = 2;   // define CLK pin (any digital pin)
 const byte PIN_DIO = 3;   // define DIO pin (any digital pin)
 SevenSegmentExtended      display(PIN_CLK, PIN_DIO);

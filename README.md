@@ -52,8 +52,7 @@ void loop() {
   
 
   for ( ; hours < 24; hours++) {                // count hours   up to 24
- 
-    for ( ; minutes < 60; minutes++) {// count minutes up to 59
+    for ( ; minutes < 60; minutes++) {          // count minutes up to 59
     
       display.printTime(hours, minutes, true);  // display time
       
@@ -63,7 +62,7 @@ void loop() {
     
     minutes = 0;                                // reset minutes
     
-  };
+   };
   
 };
 

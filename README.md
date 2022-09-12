@@ -71,3 +71,5 @@ void loop() {
 
 ![](Inicio de la Simulación TM1637.PNG) 
 ![](Funcionamiento TM1637.PNG)
+
+Referencia del Ejemplo: https://wokwi.com/projects/339227567530705492

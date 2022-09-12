@@ -21,7 +21,9 @@ A continuación se muestra un ejemplo utilizando el driver Seven Segment Display
 */
 
 const byte PIN_CLK = 2;   // define CLK pin (any digital pin)
+
 const byte PIN_DIO = 3;   // define DIO pin (any digital pin)
+
 SevenSegmentExtended      display(PIN_CLK, PIN_DIO);
 
 const unsigned int clockSpeed = 10000;    // speed up clock for demo

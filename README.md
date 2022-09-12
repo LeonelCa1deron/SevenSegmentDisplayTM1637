@@ -4,6 +4,15 @@ La comunicación con este dispositivo es del tipo serie de dos hilos: una línea
 
 ![](TM1637.jpg)
 
+# ¿Cuáles son su Características?
+*  Voltaje de alimentación: 3.3 a 5 VDC
+*  Consumo de corriente a 5V: 30 mA (nominal) / 80 mA (máxima)
+*  Registro de desplazamiento: 74HC595
+*  Tamaño del digito: 0.56 inch
+*  Color display: Rojo
+*  Dimensiones: 42x24x12 mm
+*  Temperatura de funcionamiento: -40° C a 80° C
+
 # ¿Cómo funciona?
 El módulo funciona por medio de sólo 4 conexiones: dos de energía, una para la señal de reloj y una para datos. Esto reduce considerablemente las conexiones que usualmente tendríamos que hacer para usar cuatro displays de 7 segmentos como estos. Los datos se ingresan al módulo por medio de comunicación serial, de ahí que sólo un pin es necesario para datos, mientras tanto el pin de reloj define el tiempo en que se envían tales datos.
 A continuación describimos las conexiones del módulo:

@@ -11,6 +11,7 @@ A continuación describimos las conexiones del módulo:
 *  GND = Referencia negativa
 *  DIO = Entrada serial de datos
 *  CLK = Entrada de  señal de reloj
+
 El envío de los datos al módulo es más bien simple, el fabricante del chip da un instructivo para esto en el data sheet con el fin de que podamos programarlo en un microcontrolador. Para Arduino, el fabricante provee ya una librería con el fin de que podamos mandar datos a nuestro display de la forma más sencilla posible, la librería tiene el nombre de "TM1637.h".
 
 

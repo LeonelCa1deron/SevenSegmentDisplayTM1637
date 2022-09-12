@@ -52,17 +52,18 @@ void loop() {
   
 
   for ( ; hours < 24; hours++) {                // count hours   up to 24
-    for ( ; minutes < 60; minutes++) {          // count minutes up to 59
     
-      display.printTime(hours, minutes, true);  // display time
+  for ( ; minutes < 60; minutes++) {          // count minutes up to 59
+    
+  display.printTime(hours, minutes, true);  // display time
       
-      delay(60000 / clockSpeed);                // clock delay ms
+  delay(60000 / clockSpeed);                // clock delay ms
       
-    };
+  };
     
-    minutes = 0;                                // reset minutes
+  minutes = 0;                                // reset minutes
     
-   };
+  };
   
 };
 

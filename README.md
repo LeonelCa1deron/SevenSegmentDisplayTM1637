@@ -29,26 +29,42 @@ SevenSegmentExtended      display(PIN_CLK, PIN_DIO);
 const unsigned int clockSpeed = 10000;    // speed up clock for demo
 
 // run setup code
+
 void setup() {
+
   Serial.begin(9600);         // initializes the Serial connection @ 9600 baud
+  
   display.begin();            // initializes the display
+  
   display.setBacklight(100);  // set the brightness to 100 %
+  
   delay(1000);                // wait 1000 ms
+  
 };
 
 // run loop (forever)
+
 void loop() {
 
   byte hours    = 00;                           // initialize hours
+  
   byte minutes  = 00;                           // initialize minutes
+  
 
   for ( ; hours < 24; hours++) {                // count hours   up to 24
+  
     for ( ; minutes < 60; minutes++) {          // count minutes up to 59
+    
       display.printTime(hours, minutes, true);  // display time
+      
       delay(60000 / clockSpeed);                // clock delay ms
+      
     };
+    
     minutes = 0;                                // reset minutes
+    
   };
+  
 };
 
 ************************************************************ Pantallas de Resultados ************************************************************

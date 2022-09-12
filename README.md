@@ -15,7 +15,7 @@ La comunicación con este dispositivo es del tipo serie de dos hilos: una línea
 
 # ¿Cómo funciona?
 El módulo funciona por medio de sólo 4 conexiones: dos de energía, una para la señal de reloj y una para datos. Esto reduce considerablemente las conexiones que usualmente tendríamos que hacer para usar cuatro displays de 7 segmentos como estos. Los datos se ingresan al módulo por medio de comunicación serial, de ahí que sólo un pin es necesario para datos, mientras tanto el pin de reloj define el tiempo en que se envían tales datos.
-A continuación describimos las conexiones del módulo:
+A continuación se describen las conexiones del módulo:
 *  VCC = Referencia positiva de 3.3 V a 5V
 *  GND = Referencia negativa
 *  DIO = Entrada serial de datos

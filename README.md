@@ -96,4 +96,8 @@ void loop() {
 ![](Inicio de la Simulación TM1637.PNG) 
 ![](Funcionamiento TM1637.PNG)
 
-Referencia del Ejemplo: https://wokwi.com/projects/339227567530705492
+# Referencias Consultadas.
+*  https://www.makerelectronico.com/display-tm1637-4-digitos-7-segmentos/#:~:text=El%20TM1637%20es%20un%20driver,como%20a%20nivel%20de%20software.
+*  https://www.arcaelectronica.com/blogs/tutoriales/display-de-7-segmentos-tm1637-con-arduino
+*  https://www.vistronica.com/display/modulo-tm1637-con-display-4-digitos-7-segmentos-detail.html
+*  https://wokwi.com/projects/339227567530705492

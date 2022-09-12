@@ -47,5 +47,5 @@ void loop() {
 
 ************************************************************ Pantallas de Resultados ************************************************************
 
-![](Inicio de la Simulación (TM1637).PNG) 
-![](Funcionamiento (TM1637).PNG)
+![](Inicio de la Simulación TM1637.PNG) 
+![](Funcionamiento TM1637.PNG)

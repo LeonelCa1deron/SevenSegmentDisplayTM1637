@@ -53,6 +53,8 @@ El envío de los datos al módulo es más bien simple, el fabricante del chip da
 
 ## Ventajas & Desventajas
 
+http://www.pretexsa.com/pXoObj0X.html
+
 ## Diagrama electrónica del TM1637
 ![](Diagrama.png)
 

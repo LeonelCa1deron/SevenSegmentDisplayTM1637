@@ -73,7 +73,6 @@ El envío de los datos al módulo es más bien simple, el fabricante del chip da
 |  energía y costo de  poder utilizarlos.                  	|
 |:--------------------------------------------------------: |
 |                      **Desventajas**                     	|
-|:--------------------------------------------------------: |
 |  Se limitan a mostrar 16 caracteres hexadecimales. La     |
 |  tecnología de circuito integrado puede aumentar, pero    |
 |  todavía hay un número limitado de combinaciones para     |

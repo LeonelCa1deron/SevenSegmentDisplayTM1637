@@ -53,16 +53,16 @@ El envío de los datos al módulo es más bien simple, el fabricante del chip da
 
 ## Ventajas & Desventajas
 
-|                       **Ventajas**        	              |
-|:--------------------------------------------------------:	|
-|  Los diodos emisores  de luz suelen  ser muy baratos;     |
-|  además, son componentes  eléctricos más simples y        |
-|  muy fáciles de elaborar.                                 | 
-|  Tienen circuitos  eléctricos muy simples,  consta de     |
-|  cuatro  conductores de entrada; chip de  BCD con puertas | 
-|  lógicas que traducen  los cables en siete  señales       |
-|  binarias o  chip de circuito  integrado y además  de los |
-|  segmentos que  demuestra por defecto. 	                  |
+|                       **Ventajas**        	              |                       **Desventajas**                     |
+|:--------------------------------------------------------:	|:---------------------------------------------------------:|
+|  Los diodos emisores  de luz suelen  ser muy baratos;     |  Se limitan a mostrar 16 caracteres hexadecimales. La     |
+|  además, son componentes  eléctricos más simples y        |  tecnología de circuito integrado puede aumentar, pero    |
+|  muy fáciles de elaborar.                                 |  todavía hay un número limitado de combinaciones para     |
+|  Tienen circuitos  eléctricos muy simples,  consta de     |  estos modulos.                                           |
+|  cuatro  conductores de entrada; chip de  BCD con puertas |  Pocas regulación en términos de elaborar LEDs con        |
+|  lógicas que traducen  los cables en siete  señales       |  exclusión de las normas ambientales en materia de        |
+|  binarias o  chip de circuito  integrado y además  de los |  contaminación, por lo que es más común encontrar de poca |
+|  segmentos que  demuestra por defecto. 	                  |  calidad.                                                 |
 |  Pequeña porcentaje de  mal funcionamiento.   El modulo   |
 |  se usa  en una amplia  gama de ambiente  caliente a muy  |
 |  frio,  por lo cual puede  funcionar hasta en             |
@@ -71,16 +71,6 @@ El envío de los datos al módulo es más bien simple, el fabricante del chip da
 |  eléctronicos están  a favor de la  tecnología LED más    |
 |  de las LCD por lo cual,  reduce  el suministro  de       |
 |  energía y costo de  poder utilizarlos.                  	|
-|:--------------------------------------------------------: |
-|                      **Desventajas**                     	|
-|  Se limitan a mostrar 16 caracteres hexadecimales. La     |
-|  tecnología de circuito integrado puede aumentar, pero    |
-|  todavía hay un número limitado de combinaciones para     |
-|  estos modulos.                                          	|
-|  Poca regulación en términos de elaborar LEDs con         | 
-|  exclusión de las normas ambientales en materia de        |
-|  contaminación, por lo que es más común encontrar de      |
-|  poca calidad.                                            |
 
 ## Diagrama electrónica del TM1637
 ![](Diagrama.png)
